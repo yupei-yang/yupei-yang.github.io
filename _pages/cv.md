@@ -19,6 +19,6 @@ CS7323 Learning Causality from data (with Prof. [Lei Xu](https://www.cse.cuhk.ed
 
 # Contact Me
 
-Email: yupei_yang@sjju.edu.cn
+Email: yupei_yang@sjtu.edu.cn
 
 Address: Room 508, SEIEE Building#3, Minhang Campus, Shanghai Jiao Tong University
