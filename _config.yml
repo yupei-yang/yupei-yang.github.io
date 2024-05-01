@@ -83,10 +83,10 @@ author:
   name             : "Yupei Yang"
   avatar           : "profile.png"
   bio              : "Phd student of SJTU"
-  location         : # "Location"
-  employer         :
+  location         : "Department of Computer Science and Engineering, Shanghai Jiao Tong University, 3-508"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=28FVf_2chMcC&hl=en"
   email            : "yupei_yang@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
