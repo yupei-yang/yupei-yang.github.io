@@ -12,7 +12,7 @@ Education
 =========
 
 * B.S. in Artificial Intelligence, Chien-Shiung Wu College, Southeast University, 2018.9 ~ 2022.6
-* Ph.D at [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](http://www.sjtu.edu.cn/), 2022.9 ~ 2027.6 (expected)
+* Ph.D at [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/), 2022.9 ~ 2027.6 (expected)
 
 Publications
 ============
