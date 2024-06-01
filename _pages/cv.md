@@ -10,8 +10,8 @@ redirect_from:
 Education
 =========
 
-* B.S. at [Chien-Shiung Wu College](https://wjx.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), 2018.9 ~ 2022.6
 * Ph.D at [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/), 2022.9 ~ 2027.6 (expected)
+* B.S. at [Chien-Shiung Wu College](https://wjx.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), 2018.9 ~ 2022.6
 
 # Teaching Assistant
 
