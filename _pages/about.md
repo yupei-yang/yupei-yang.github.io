@@ -16,6 +16,10 @@ I am now a Ph.D student at [Center for Cognitive Machines and Computational Heal
 
 2024/1 One paper was submitted to IJCAI'24 (accepted).
 
+2023/9 One paper was submitted to ICLR'24 (rejected).
+
+2023/5 One paper was submitted to NeurIPS'23 (rejected).
+
 # Research Interests
 
 My research interests include:
