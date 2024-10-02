@@ -15,7 +15,15 @@ Education
 
 # Teaching Assistant
 
-CS7323 Learning Causality from data (with Prof. [Lei Xu](https://www.cse.cuhk.edu.hk/~lxu/) and Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/)), Fall, 2023
+Shanghai Innovation Institute
+
+* SII24001003 Classical theories of information science (with Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/)), Fall, 2024
+
+Shanghai Jiao Tong University
+
+* CS2601 Linear and Convex Optimization (with Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/)), Fall, 2024
+
+* CS7323 Learning Causality from data (with Prof. [Lei Xu](https://www.cse.cuhk.edu.hk/~lxu/) and Prof. [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/)), Fall, 2023
 
 # Contact Me
 
