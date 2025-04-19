@@ -12,13 +12,7 @@ I am now a Ph.D student at [Center for Cognitive Machines and Computational Heal
 # News
 2024/10 One paper was submitted to ICLR'25 (<span style="color:red">accepted</span>). 🚀🚀
 
-<span style="color:grey">2024/5 One paper was submitted to NeurIPS'24 (rejected).</span>
-
 2024/1 One paper was submitted to IJCAI'24 (accepted <span style="color:red">oral</span>). 🚀
-
-<span style="color:grey">2023/9 One paper was submitted to ICLR'24 (rejected).</span>
-
-<span style="color:grey">2023/5 One paper was submitted to NeurIPS'23 (rejected).</span>
 
 # Research Interests
 
