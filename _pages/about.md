@@ -12,9 +12,10 @@ I am now a Ph.D student at [Center for Cognitive Machines and Computational Heal
 ---
 
 ### News
-- **2025/08** &nbsp; One paper submitted to **AAAI 2026**. 🚀  
-- **2025/06** &nbsp; Joined **Alibaba** as a Research Intern - Large Model Application Framework R&D Engineer. 🚀  
+- **2025/08** &nbsp; One paper submitted to **AAAI 2026**. 📄  
+- **2025/06** &nbsp; Joined **Alibaba** as a Research Intern - LLM Application Framework R&D Engineer. 💼  
 - **2024/10** &nbsp; One paper submitted to **ICLR 2025** (<span style="color:red">accepted</span>). 🚀🚀  
+- **2024/08** &nbsp; Collaborated with **Huawei** on **GraphRAG** project development. 💼  
 - **2024/01** &nbsp; One paper submitted to **IJCAI 2024** (accepted as <span style="color:red">oral presentation</span>). 🚀  
 
 ---
