@@ -7,17 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a Ph.D student at [Center for Cognitive Machines and Computational Health](http://cmach.sjtu.edu.cn/) (CMaCH), Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/) and [Prof. Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/). I am fortunate to be co-supervised by [Prof. Biwei Huang](https://biweihuang.com/) at [Halicioğlu Data Science Institute](https://datascience.ucsd.edu/) (HDSI) at UC San Diego (UCSD). Before joining SJTU, I got my B.Sc. from Chien-Shiung Wu College, Southeast University (SEU), working with [Prof. Shaofu Yang](https://sfyangcs.github.io/) (2018 – 2022).
+I am now a Ph.D student at [Center for Cognitive Machines and Computational Health](http://cmach.sjtu.edu.cn/) (CMaCH), Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/) and [Prof. Lei Xu](https://www.cs.sjtu.edu.cn/~lxu/). I am fortunate to be co-supervised by [Prof. Biwei Huang](https://biweihuang.com/) at [Halicioğlu Data Science Institute](https://datascience.ucsd.edu/) (HDSI) at UC San Diego (UCSD). Before joining SJTU, I received my B.Sc. from Chien-Shiung Wu College, Southeast University (SEU), working with [Prof. Shaofu Yang](https://sfyangcs.github.io/) (2018 – 2022).
 
-# News
-2024/10 One paper was submitted to ICLR'25 (<span style="color:red">accepted</span>). 🚀🚀
+---
 
-2024/1 One paper was submitted to IJCAI'24 (accepted <span style="color:red">oral</span>). 🚀
+### News
+- **2025/08** &nbsp; One paper submitted to **AAAI 2026**. 🚀  
+- **2025/06** &nbsp; Joined **Alibaba** as a Research Intern - Large Model Application Framework R&D Engineer. 🚀  
+- **2024/10** &nbsp; One paper submitted to **ICLR 2025** (<span style="color:red">accepted</span>). 🚀🚀  
+- **2024/01** &nbsp; One paper submitted to **IJCAI 2024** (accepted as <span style="color:red">oral presentation</span>). 🚀  
 
-# Research Interests
+---
 
-My research interests include:
+### Research Interests
+My research focuses on bridging causal reasoning with modern AI paradigms:
+- **Causal Discovery and Reasoning**  
+- **Causality-facilitated Reinforcement Learning**  
+- **Reinforcement Learning from Human Feedback (RLHF)**  
+- **Graph-based Retrieval Augmented Generation (GraphRAG)**    
 
-* Causal Discovery and Reasoning
-* Neural Combinatorial Optimization
-* Causality-facilitated Reinforcement Learning
