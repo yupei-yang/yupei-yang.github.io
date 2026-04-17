@@ -18,9 +18,9 @@ My research focuses on **LLM/RL post-training** and **retrieval-augmented genera
 - **2026/01** &nbsp; One paper submitted to **ICML 2026**.
 - **2025/10** &nbsp; One paper submitted to **TACL**.
 - **2025/07** &nbsp; Presented on _Real-World LLM Applications_ at **Air Force Research Institute (AFRI)**.
-- **2025/06** &nbsp; Joined **Alibaba** as a Research Intern working on **LLM post-training and multimodal RAG systems**.
+- **2025/06** &nbsp; Joined **Alibaba Group** as a Research Intern working on **LLM post-training and multimodal RAG systems**.
 - **2024/10** &nbsp; One paper submitted to **ICLR 2025** (<span style="color:red">accepted</span>). 🚀🚀  
-- **2024/08** &nbsp; Collaborated with **Huawei** on a _GraphRAG_ project.
+- **2024/08** &nbsp; Collaborated with **Huawei Cloud** on a _GraphRAG_ project.
 - **2024/01** &nbsp; One paper submitted to **IJCAI 2024** (accepted as <span style="color:red">oral presentation</span>). 🚀  
 
 ---
