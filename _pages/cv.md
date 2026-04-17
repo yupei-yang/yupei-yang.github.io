@@ -9,7 +9,7 @@ redirect_from:
 
 # Internship
 
-* **Alibaba**, 2025.6 ~ Present  
+* **Alibaba Group**, 2025.6 ~ Present  
   Research Intern, working on LLM/RL post-training and multimodal RAG.
 * [Download CV (PDF)](/files/CV.pdf)
 
