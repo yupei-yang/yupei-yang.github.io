@@ -14,14 +14,14 @@ My research focuses on **LLM/RL post-training** and **retrieval-augmented genera
 ---
 
 ### News
-- **2026/05** &nbsp; One paper was accepted to **KDD 2026**. 🚀
-- **2026/05** &nbsp; One paper was accepted to **ICML 2026**. 🚀
+- **2026/05** &nbsp; One paper was accepted by **KDD 2026**. 🚀
+- **2026/05** &nbsp; One paper was accepted by **ICML 2026**. 🚀
 - **2025/10** &nbsp; One paper submitted to **TACL**.
 - **2025/07** &nbsp; Presented on _Real-World LLM Applications_ at **Air Force Research Institute (AFRI)**.
 - **2025/06** &nbsp; Joined **Alibaba Group** as a Research Intern working on **LLM post-training and multimodal RAG systems**.
-- **2025/01** &nbsp; One paper was accepted to **ICLR 2025**. 🚀
+- **2025/01** &nbsp; One paper was accepted by **ICLR 2025**. 🚀
 - **2024/08** &nbsp; Collaborated with **Huawei Cloud** on a _GraphRAG_ project.
-- **2024/04** &nbsp; One paper was accepted as <span style="color:red">oral</span> presentation to **IJCAI 2024**. 🚀  
+- **2024/04** &nbsp; One paper was accepted by **IJCAI 2024** as <span style="color:red">oral</span> presentation. 🚀  
 
 ---
 
