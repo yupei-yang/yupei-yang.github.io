@@ -9,7 +9,9 @@ redirect_from:
 
 # Internship
 
-* **Alibaba Group**, 2025.6 ~ Present  
+* **Tencent**, 2026.6 ~ Present  
+  Project UP Intern, working on **DataBuddy**, a data agent.
+* **Alibaba Group**, 2025.6 ~ 2026.6  
   Research Intern, working on LLM/RL post-training and multimodal RAG.
 * [Download CV (PDF)](/files/CV.pdf)
 
