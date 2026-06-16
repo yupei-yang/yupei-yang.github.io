@@ -14,7 +14,7 @@ My research focuses on **LLM/RL post-training**, **Agentic RL**, and **retrieval
 ---
 
 ### News
-- **2026/06** &nbsp; Joined **Tencent** as a **Project UP Intern**, working on **DataAgent (DataBuddy)**. 💼
+- **2026/06** &nbsp; Joined **Tencent** as a **Project UP Intern** (青云计划), working on **DataAgent (DataBuddy)**. 💼
 - **2026/05** &nbsp; One paper was accepted by **KDD 2026**. 📚
 - **2026/05** &nbsp; One paper was accepted by **ICML 2026**. 📚
 - **2025/10** &nbsp; One paper submitted to **TACL**. 📚
