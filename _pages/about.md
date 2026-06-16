@@ -21,10 +21,10 @@ My research focuses on **LLM/RL post-training**, **Agentic RL**, and **retrieval
 - **2025/07** &nbsp; Presented on _Real-World LLM Applications_ at **Air Force Research Institute (AFRI)**. 🎤
 - **2025/06** &nbsp; Joined **Alibaba Group** as a Research Intern working on **LLM post-training and multimodal reranker**. 💼
 - **2025/04** &nbsp; See you in Singapore at **ICLR 2025**! ✈️
-- **2025/01** &nbsp; One paper was accepted by **ICLR 2025**. 🚀
-- **2024/08** &nbsp; Collaborated with **Huawei Cloud** on a _GraphRAG_ project.
+- **2025/01** &nbsp; One paper was accepted by **ICLR 2025**. 📚
+- **2024/08** &nbsp; Collaborated with **Huawei Cloud** on a _GraphRAG_ project. 💼
 - **2024/08** &nbsp; See you in Jeju at **IJCAI 2024**! ✈️
-- **2024/04** &nbsp; One paper was accepted by **IJCAI 2024** as <span style="color:red">oral</span> presentation. 🚀
+- **2024/04** &nbsp; One paper was accepted by **IJCAI 2024** as <span style="color:red">oral</span> presentation. 📚
 
 ---
 
